@@ -1,2 +1,51 @@
 # POCO-X6-Pro-GameHub-Eden
 Lista de compatibilidade para POCO X6 Pro 12/512 (Dimensity 8300 Ultra) com GameHub (PC/Steam) e Eden (Switch). Testes reais, configurações exatas, FPS médio e tweaks necessários. Vídeos dos testes no canal YouTube.
+
+# POCO X6 Pro - GameHub & Eden Compatibility List
+
+Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Mali GPU)**.
+
+## 📱 Especificações do dispositivo
+- **SoC**: MediaTek Dimensity 8300 Ultra
+- **GPU**: Mali-G615 MC6
+- **RAM**: 12GB LPDDR5X
+- **Armazenamento**: 512GB UFS 4.0
+- **Emuladores testados**:
+  - GameHub AnTuTu v5.3.5+
+  - Eden v0.0.4+
+
+## 🔑 Legenda de Status
+- ✅ **Funciona bem** (~30+ FPS estável)
+- ⚠️ **Jogável** (20-30 FPS, alguns stutters)
+- ❌ **Não funciona** (crash/tela preta/baixo FPS)
+- 🔸 **Não verificado** (relato de terceiros)
+
+**Vídeos dos testes:** [Canal YouTube (em breve)](https://youtube.com)
+
+**Última atualização:** 15/12/2025
+
+---
+
+## 💻 GameHub (PC/Steam)
+
+| Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado |
+|------|--------|---------------------|---------------------|-----------|-------|------------|
+| Resident Evil 4 UHD | ✅ | Tudo Low, 720p | DXVK 1.7.2 + re4_tweaks (sem Vulkan) | ~30 FPS | [link] | ✅ Sim |
+
+---
+
+## 🎮 Eden (Switch)
+
+| Jogo | Status | Configuração | FPS Médio | Vídeo | Verificado |
+|------|--------|--------------|-----------|-------|------------|
+| (em breve) | | | | | |
+
+---
+
+## 📝 Como contribuir
+1. Testou outro jogo? Abre uma **Issue** com: nome do jogo, status, configs usadas, FPS aproximado
+2. Tem vídeo? Compartilha o link
+3. Encontrou correção? Manda **Pull Request**
+
+**⚠️ Aviso:** Resultados específicos do POCO X6 Pro (Dimensity 8300). Pode variar em outros aparelhos.
+---
