@@ -20,7 +20,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 - ❌ **Não funciona** (crash/tela preta/baixo FPS)
 - 🔸 **Não verificado** (relato de terceiros)
 
-**Vídeos dos testes:** [Canal YouTube (em breve)](https://youtube.com)
+**Vídeos dos testes:** [POCO X6 Pro GameHub & Eden](https://youtube.com/@pocox6progamehubeden?si=1WjQlFzg6e3E7qlD)
 
 **Última atualização:** 15/12/2025
 
@@ -30,7 +30,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 | Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado | Nota |
 |------|--------|---------------------|---------------------|-----------|-------|------------|------------|
-| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | DXVK 1.7.2 + re4_tweaks | ~30 FPS | [link] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
+| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | DXVK 1.7.2 + re4_tweaks | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
 
 ---
 
