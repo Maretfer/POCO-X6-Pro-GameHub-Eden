@@ -1,5 +1,5 @@
 # POCO-X6-Pro-GameHub-Eden
-Lista de compatibilidade para POCO X6 Pro 12/512 (Dimensity 8300 Ultra) com GameHub (PC/Steam) e Eden (Switch). Testes reais, configurações exatas, FPS médio e tweaks necessários. Vídeos dos testes no canal YouTube.
+Lista de compatibilidade para POCO X6 Pro 12/512 (Dimensity 8300 Ultra) com GameHub (PC/Steam) e Eden (Switch). Testes reais, configurações exatas(Nos vídeos), FPS médio e tweaks necessários. Vídeos dos testes no canal YouTube.
 
 # GameHub & Eden Compatibility List
 
@@ -28,16 +28,16 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 ## 💻 GameHub (PC/Steam)
 
-| Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado |
-|------|--------|---------------------|---------------------|-----------|-------|------------|
-| Resident Evil 4 UHD | ✅ | Tudo Low, 720p | DXVK 1.7.2 + re4_tweaks (sem Vulkan) | ~30 FPS | [link] | ✅ Sim |
+| Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado | Nota |
+|------|--------|---------------------|---------------------|-----------|-------|------------|--------|
+| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p | DXVK 1.7.2 + re4_tweaks | ~30 FPS | [link] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
 
 ---
 
 ## 🎮 Eden (Switch)
 
-| Jogo | Status | Configuração | FPS Médio | Vídeo | Verificado |
-|------|--------|--------------|-----------|-------|------------|
+| Jogo | Status | Configuração | FPS Médio | Vídeo | Verificado | Nota |
+|------|--------|--------------|-----------|-------|------------|--------|
 | (em breve) | | | | | |
 
 ---
