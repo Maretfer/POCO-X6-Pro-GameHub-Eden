@@ -28,10 +28,11 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 ## 💻 GameHub (PC/Steam)
 
-| Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado | Nota |
-|------|--------|---------------------|---------------------|-----------|-------|------------|------------|
-| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | DXVK 1.7.2 + re4_tweaks | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
-| ABZÛ | ❌ |  |  |  |  |  | Não incia em nenhuma configuração nessa GPU |
+| Jogo | Status | Configuração do Jogo | Configuração GameHub | Dependências | FPS Médio | Vídeo | Verificado | Nota |
+|------|--------|---------------------|---------------------|--------------|-----------|-------|------------|-------|
+| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | Proton9.0-x64-3, Parâmetros de Tradução: Desempenho, DXVK-1.7.2, VKD3D-2.12, Box64-0.37-b1 | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
+| ABZÛ | ❌ | - | - | Base | - | - | ✅ | Não incia em nenhuma configuração nessa GPU |
+|Clone Drone in the Danger Zone| ❌ | Fast, 720P|Proton10.0-ARM64-2, DXVK-1.10.3-async, vkd3d-2.12, Fex_20250910| Base |20-40|-------|✅|O Jogo tanto com Proton e Proton ARM64 é completamente instável. No menu e depois de acabar o level, fica entre 30-40 FPS. Durante a partida fica abaixo de 15 FPS|
 ---
 
 ## 🎮 Eden (Switch)
