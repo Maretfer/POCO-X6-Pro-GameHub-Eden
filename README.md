@@ -22,7 +22,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 **Vídeos dos testes:** [POCO X6 Pro GameHub & Eden](https://youtube.com/@pocox6progamehubeden?si=1WjQlFzg6e3E7qlD)
 
-**Última atualização:** 15/12/2025
+**Última atualização:** 16/12/2025
 
 ---
 
