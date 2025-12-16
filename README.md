@@ -48,7 +48,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 | Jogo | Status | Configuração | FPS Médio | Vídeo | Verificado | Nota |
 |------|--------|--------------|-----------|-------|------------|--------|
-| Diablo III: Eternal Collection | ⚙️ | | | | |
+| Diablo III: Eternal Collection | 📆 | | | | |
 | LEGO Worlds | 📆 | | | | |
 | LEGO Jurassic World | 📆 | | | | |
 | Resident Evil 4 UHD | 📆 | | | | |
