@@ -19,6 +19,9 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 - ⚠️ **Jogável** (20-30 FPS, alguns stutters)
 - ❌ **Não funciona** (crash/tela preta/baixo FPS)
 - 🔸 **Não verificado** (relato de terceiros)
+- 🚫 **Sem dados** (Configuração/Vídeo/Nota)
+- ⚙️ **Em breve** (Em produção)
+- 📆 **Na fila** (Testes planejados, ainda não iniciados)
 
 **Vídeos dos testes:** [POCO X6 Pro GameHub & Eden](https://youtube.com/@pocox6progamehubeden?si=1WjQlFzg6e3E7qlD)
 
@@ -30,16 +33,25 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 
 | Jogo | Status | Configuração do Jogo | Configuração GameHub | Dependências | FPS Médio | Vídeo | Verificado | Nota |
 |------|--------|---------------------|---------------------|--------------|-----------|-------|------------|-------|
-| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | Proton9.0-x64-3, Parâmetros de Tradução: Desempenho, DXVK-1.7.2, VKD3D-2.12, Box64-0.37-b1 | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
-| ABZÛ | ❌ | - | - | Base | - | - | ✅ | Não incia em nenhuma configuração nessa GPU |
-|Clone Drone in the Danger Zone| ❌ | Fast, 720P|Proton10.0-ARM64-2, DXVK-1.10.3-async, vkd3d-2.12, Fex_20250910| Base |20-40|-------|✅|O Jogo tanto com Proton e Proton ARM64 é completamente instável. No menu e depois de acabar o level, fica entre 30-40 FPS. Durante a partida fica abaixo de 15 FPS|
+| Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | Proton9.0-x64-3, Parâmetros de Tradução: Desempenho, DXVK-1.7.2, VKD3D-2.12, Box64-0.37-b1 | Base, K-Lite | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso. |
+| ABZÛ | ❌ | 🚫 | 🚫 | Base | 🚫 | 🚫 | ✅ | Não incia em nenhuma configuração nessa GPU |
+| Clone Drone in the Danger Zone | ❌ | Fast, 720P|Proton10.0-ARM64-2, DXVK-1.10.3-async, vkd3d-2.12, Fex_20250910| Base |20-40|⚙️|✅|O Jogo tanto com Proton e Proton ARM64 é completamente instável. No menu e depois de acabar o level, fica entre 30-40 FPS. Durante a partida fica abaixo de 15 FPS. |
+| Contagion | ⚙️ |  |  |  |  |  |  |  |
+| LEGO Worlds | ⚙️ |  |  |  |  |  |  |  |
+| Resident Evil 5 | 📆 |  |  |  |  |  |  |  |
+| Resident Evil 6 | 📆 |  |  |  |  |  |  |  |
+| Resident Evil 7 | 📆 |  |  |  |  |  |  |  |
+| Mirror's Edge | 📆 |  |  |  |  |  |  |  |
 ---
 
 ## 🎮 Eden (Switch)
 
 | Jogo | Status | Configuração | FPS Médio | Vídeo | Verificado | Nota |
 |------|--------|--------------|-----------|-------|------------|--------|
-| (em breve) | | | | | |
+| Diablo III: Eternal Collection | ⚙️ | | | | |
+| LEGO Worlds | 📆 | | | | |
+| LEGO Jurassic World | 📆 | | | | |
+| Resident Evil 4 UHD | 📆 | | | | |
 
 ---
 
