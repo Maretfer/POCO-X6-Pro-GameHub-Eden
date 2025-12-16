@@ -31,7 +31,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 | Jogo | Status | Configuração do Jogo | Configuração GameHub | FPS Médio | Vídeo | Verificado | Nota |
 |------|--------|---------------------|---------------------|-----------|-------|------------|------------|
 | Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | DXVK 1.7.2 + re4_tweaks | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso.
-
+| ABZÛ | ❌ Não|---------------------|---------------------|-----------|-------|------------| Não incia em nenhuma configuração nessa GPU |
 ---
 
 ## 🎮 Eden (Switch)
