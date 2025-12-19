@@ -36,7 +36,7 @@ Lista mantida com testes reais no **POCO X6 Pro (512GB, Dimensity 8300 Ultra, Ma
 | Resident Evil 4 UHD | ✅ | Tudo Low com texturas HD, 720p, 30 FPS | Proton9.0-x64-3, Parâmetros de Tradução: Desempenho, DXVK-1.7.2, VKD3D-2.12, Box64-0.37-b1 | Base, K-Lite | ~30 FPS | [https://youtu.be/FXfVOSa7yK8?si=ijrhxxIoa6hlT0FO] | ✅ Sim | O mod Re4_Tweaks é obrigatório para não dar tela preta com audio. Pois, o RE4 UHD é imcompatível com telas com taxa de atualização maior, e o mod resolve isso. |
 | ABZÛ | ❌ | 🚫 | 🚫 | Base | 🚫 | 🚫 | ✅ | Não incia em nenhuma configuração nessa GPU |
 | Clone Drone in the Danger Zone | ⚠️ | Fast, 720P|Proton10.0-ARM64-2, DXVK-1.10.3-async, vkd3d-2.12, Fex_20250910| Base | 20-40 | [https://youtu.be/u1NKKHNzHnM?si=6FSo57TYky5TOGH6] |✅|É jogável, mas o FPS pode ficar abaixo de 10 durante a gameplay. O fps fica entre 20 e 30 na maior parte do tempo, sendo assim, jogável|
-| Contagion | ⚙️ |  |  |  |  |  |  |  |
+| Contagion | ✅ | Lowest | Proton10-Arm64x-2, DXVK 1.10.3-async, vkd3d 2.12, Tradutor Fex20250910 | Base + vcredist 2013(Opcional) | 30-50 FPS | https://youtu.be/PWcnxyVrEKU | ✅ | O Jogo é perfeitamente jogável no gráfico mais baixo possível,no entanto demora aproximadamente 2 minutos para carregar a fase ou cenário |
 | LEGO Worlds | ⚙️ |  |  |  |  |  |  |  |
 | Resident Evil 5 | 📆 |  |  |  |  |  |  |  |
 | Resident Evil 6 | 📆 |  |  |  |  |  |  |  |
